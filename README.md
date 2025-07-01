@@ -1,5 +1,5 @@
 # Simon game
 
-Try it: 
+Try it: https://bshiribaiev.github.io/simon_game/
 
 Rules - https://www.youtube.com/watch?v=EWJ5uYwQJGU
